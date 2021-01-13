@@ -1,3 +1,22 @@
+
+Setup Environment 
+	Install python - https://www.python.org/downloads/
+	Add information to PATH - Python Tutorial for Beginners 1: Install and Setup for Mac and Windows
+	
+	CMD interactive terminal - https://docs.python.org/3.3/using/windows.html
+		py
+		py -3
+		Do some print("Hello World") etc.
+		exit()
+		
+	Create a file, give it .py extension
+		Edit in text edit software 
+		Navigate to folder in CMD
+		py Hello.py
+	
+	This second bit is what we are going to the majority of the time, but rather than doing it in Notepad and CMD we'll do it in something a bit prettier 
+	VS Code
+##
 # x = 5
 # y = 5.0
 
